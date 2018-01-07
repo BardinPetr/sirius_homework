@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домашнее задание</string>
+    <string name="input_name">Введи имя</string>
+    <string name="take_photo">Сделать фото</string>
+</resources>

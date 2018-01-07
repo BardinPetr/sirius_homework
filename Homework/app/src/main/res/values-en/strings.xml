@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="input_name">Please, input name</string>
+    <string name="take_photo">Take a photo</string>
+</resources>
